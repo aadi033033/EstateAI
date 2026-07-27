@@ -5,6 +5,13 @@ An AI-powered Real Estate Valuation System built using Machine Learning and Stre
 The application predicts house prices using an XGBoost Regression model and provides an interactive luxury dashboard.
 
 ---
+<img src="screenshots/dashboard.png" width="100%">
+
+
+### 💰 House Price Prediction
+
+<img src="screenshots/result.png" width="100%">
+<img src="screenshots/result_1.png" width="100%">
 
 ## 🚀 Features
 
